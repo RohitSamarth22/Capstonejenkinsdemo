@@ -97,6 +97,12 @@ public class testCasesMain extends BaseConfiguration{
 		clickObj1.checkHomepage();
 		clickObj7.loginInvalidCheck();
 	}
+
+	@Test
+	public void Test3() throws InterruptedException {
+		clickObj1.checkHomepage();
+		clickObj7.loginInvalidCheck();
+	}
 	
 	@Test
 	public void Test4() throws InterruptedException {
